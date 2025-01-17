@@ -17,7 +17,7 @@ If you want to clone the project from GitHub, run the following command:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chatbot-with-documentation-fetcher.git
+
 cd chatbot-with-documentation-fetcher
 Step 2: Install Required Libraries
 You need to install requests and beautifulsoup4 to enable web scraping. Open your terminal or command prompt and run the following commands:
